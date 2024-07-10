@@ -42,9 +42,6 @@ Front-End : ReactJS, ReduxJS, React Router, TailwindCSS
 
 - [Swiggy](https://www.swiggy.com/)
 
-## Links
-
-Deploy Link : https://foodvilla-manya.netlify.app/
 
 
 
